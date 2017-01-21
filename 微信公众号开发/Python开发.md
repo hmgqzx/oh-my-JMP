@@ -28,6 +28,10 @@
 
 SAE 价格：[价格 - 新浪云](http://www.sinacloud.com/index/price.html) （比较低，免费的都可能都用了，数据库 2分钱/小时）
 
+现在使用应用都收费了（1元100云豆）：
+
+> 普通型用户创建应用后，将收取10云豆/日/账户的应用租金。
+
 ### 例子
 
 [2分钟搭建微信公众号后台](http://mp.weixin.qq.com/s/xxFtQRRmlF6V0v-gi0Malw)
