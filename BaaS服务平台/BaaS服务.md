@@ -23,3 +23,6 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 2. 个推 [个推开放平台**](https://link.zhihu.com/?target=http%3A//www.igetui.com/)
 3. AVOS Cloud Push [功能 - AVOS Cloud**](https://link.zhihu.com/?target=https%3A//cn.avoscloud.com/features.html%23/slide-2)
 
+#### 邮件推送 EDM
+1. 思齐spread http://rspread.cn/Product.aspx
+2. 新浪云邮件概述 http://www.sinacloud.com/doc/sae/php/mail.html#fu-wu-gai-shu （不知道sae应用是否可以操作，可用代码进行测试）
