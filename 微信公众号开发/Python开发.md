@@ -59,3 +59,8 @@ SAE 价格：[价格 - 新浪云](http://www.sinacloud.com/index/price.html) �
 这篇是 2016.07.21 的，可以先尝试这个；但只写了后面的配置，申请公众号开发者什么的还要看其他文章
 
 > 本文参考了使用python一步一步搭建微信公众平台一文。修改了其中少许的代码错误。
+
+
+
+[新浪云 Python 文档](http://www.sinacloud.com/doc/sae/python/tutorial.html)
+
