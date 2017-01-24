@@ -14,3 +14,13 @@ webpy
 
 对于MySQLdb的使用，可以参考其 [官方文档](http://mysql-python.sourceforge.net/MySQLdb.html) 。
 
+
+
+用 sublime 时，由于自动检查不够完善，万一修改过程中缩进出问题（有时难发现）
+
+
+
+定时任务
+
+[新浪云-定时任务](https://www.sinacloud.com/doc/sae/python/cron.html)
+
