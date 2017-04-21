@@ -10,5 +10,14 @@
 
 #### 各文档简介
 
-* weixin_python：使用web.py+uwsgi
+* weixin_python
+  * 使用web.py+uwsgi
+* WeRoBot
+  * 星标最多，支持的东西比较全面
+* wechat-python-sdk 
+  * 还没仔细看过这个
+* WEGO
+  * 一个简单易用的微信开发框架，能协助你在微信开发中专注业务逻辑摆脱微信接口调试的烦恼。
+* django-wechat
+  * Django实现微信公众号开发,封装官方API,可通过pip进行安装
 
